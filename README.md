@@ -1,8 +1,8 @@
-# AquaAware Mobile - Community Water Outage Monitoring Platform
+# AquaWare Mobile - Community Water Outage Monitoring Platform
 
 ## Overview
 
-AquaAware Mobile is an Android application designed to help residents of Antigua and Barbuda monitor, report, and stay informed about water outages within their communities.
+AquaWare Mobile is an Android application designed to help residents of Antigua and Barbuda monitor, report, and stay informed about water outages within their communities.
 
 The application enables users to submit reports about water availability, view outage information by village, receive notifications about disruptions, and access water conservation resources. AquaAware aims to improve communication and awareness during water service interruptions through a community-driven reporting system.
 
@@ -12,7 +12,7 @@ The application enables users to submit reports about water availability, view o
 
 Residents often experience uncertainty during water outages due to limited access to timely information regarding affected areas and service restoration.
 
-AquaAware addresses this issue by providing a centralized platform where users can:
+AquaWare addresses this issue by providing a centralized platform where users can:
 
 * Report water outages in their community
 * View current water status by village
@@ -100,7 +100,7 @@ Administrative users can:
 
 ## System Architecture
 
-AquaAware follows a modern Android architecture using:
+AquaWare follows a modern Android architecture using:
 
 * MVVM (Model-View-ViewModel)
 * Repository Pattern
@@ -122,7 +122,7 @@ AquaAware follows a modern Android architecture using:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AquaAware-Mobile.git
+git clone https://github.com/yourusername/AquaWare-Mobile.git
 ```
 
 2. Open the project in Android Studio
