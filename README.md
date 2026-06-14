@@ -122,7 +122,7 @@ AquaWare follows a modern Android architecture using:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AquaWare-Mobile.git
+git clone https://github.com/its-Kayo/AquaWare-Mobile.git
 ```
 
 2. Open the project in Android Studio
